@@ -6,10 +6,10 @@
 #XGB/Full_Finalized_numeric_data_for_training.csv
 #XGB (2)/Full_Finalized_numeric_data_for_training.csv
 
-KNN Algorithm/.csv
-Last Training/.csv
-logisticRegression/.csv
-Naive Bayes/.csv
-SVM/.csv
-XGB/.csv
-XGB (2)/.csv
+KNN Algorithm/*.csv
+Last Training/*.csv
+logisticRegression/*.csv
+Naive Bayes/*.csv
+SVM/*.csv
+XGB/*.csv
+XGB (2)/*.csv
